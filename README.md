@@ -10,7 +10,7 @@
 ### 1️⃣ Клонирование репозитория
 ```sh
 git clone https://github.com/curabby/CheckTrxWallet.git
-cd CheckTrxWallet/
+cd CheckTrxWallet/CheckTrxWallet/
 ```
 
 ### 2️⃣ Создание виртуального окружения
