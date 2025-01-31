@@ -1,0 +1,12 @@
+# Игнорируем файлы окружения
+.env
+*.venv
+
+#временные файлы
+*.pid
+*.pyc
+__pycache__/
+
+test_main.http
+
+.idea/
